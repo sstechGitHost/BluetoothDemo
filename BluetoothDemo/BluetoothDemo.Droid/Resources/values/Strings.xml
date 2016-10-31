@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+  <string name="app_name">Bluetooth Demo</string>
+  <string name="button_scan">Scan for devices</string>
+  <string name="title_paired_devices">Paired Devices</string>
+  <string name="title_other_devices">Other Available Devices</string>
+  <string name="scanning">scanning for devices...</string>
+</resources>
